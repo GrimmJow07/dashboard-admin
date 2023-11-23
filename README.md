@@ -37,7 +37,7 @@ This is an admin dashboard application built using React, TypeScript, Tailwind C
 1. Clone the repo
 
    ```
-
+   https://github.com/GrimmJow07/dashboard-admin.git
    ```
 
 2. Install packages
@@ -65,6 +65,10 @@ Future features planned for this app:
 - Integrate with database for persisting data
 - Add user roles and permissions
 - Implement Redux for state management
+
 # dashboard-admin
+
+# dashboard-admin
+
 # dashboard-admin
 # dashboard-admin
