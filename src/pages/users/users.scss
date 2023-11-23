@@ -1,0 +1,15 @@
+.users {
+  color: white;
+
+  .info {
+    display: flex;
+    align-self: center;
+    gap: 20px;
+
+    button {
+      border-radius: 5%;
+      cursor: pointer;
+      padding: 5;
+    }
+  }
+}
